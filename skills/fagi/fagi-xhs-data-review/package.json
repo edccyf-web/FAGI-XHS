@@ -1,0 +1,14 @@
+{
+  "name": "xhs-data-review",
+  "version": "1.0.0",
+  "description": "小红书笔记数据复盘 Skill — 按漏斗诊断逻辑定位问题层、归因并给出下一个具体动作",
+  "main": "SKILL.md",
+  "keywords": ["小红书", "数据复盘", "笔记诊断", "漏斗分析", "运营数据"],
+  "author": "",
+  "license": "MIT",
+  "agent": {
+    "type": "skill",
+    "skill_name": "xhs-data-review",
+    "triggers": ["数据复盘","笔记数据","诊断数据","小红书数据","复盘笔记","曝光低","点击率低","互动差","不涨粉"]
+  }
+}
