@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "name": "行业品类映射库",
+    "version": "1.0",
+    "description": "从贝拉米双账号框架中提取的行业映射参考数据，用于跨行业快速对齐策略参数"
+  },
+  "industries": [
+    {
+      "industry": "全屋定制",
+      "category": "收纳设计",
+      "core_capability": "收纳设计+审美定制",
+      "personal_brand_type": "收纳洞察",
+      "brand_type": "收纳方案",
+      "free_resource": "收纳规划清单",
+      "cta_keyword": "私信「厨房」",
+      "core_message": "收纳设计驱动的审美定制"
+    },
+    {
+      "industry": "功效护肤",
+      "category": "护肤品/美妆",
+      "core_capability": "成分研发+临床背书",
+      "personal_brand_type": "成分洞察",
+      "brand_type": "护肤方案",
+      "free_resource": "肤质分析报告",
+      "cta_keyword": "私信「肤质」",
+      "core_message": "科学护肤驱动的精准改善"
+    },
+    {
+      "industry": "瑜伽/健身",
+      "category": "运动健身",
+      "core_capability": "体态纠正+科学训练",
+      "personal_brand_type": "体态洞察",
+      "brand_type": "训练方案",
+      "free_resource": "体态评估表",
+      "cta_keyword": "私信「体态」",
+      "core_message": "科学训练驱动的体态改善"
+    },
+    {
+      "industry": "母婴/育儿",
+      "category": "母婴用品/教育",
+      "core_capability": "科学育儿+早教体系",
+      "personal_brand_type": "育儿洞察",
+      "brand_type": "成长方案",
+      "free_resource": "月龄发育清单",
+      "cta_keyword": "私信「月龄」",
+      "core_message": "科学育儿驱动的成长陪伴"
+    },
+    {
+      "industry": "教育培训",
+      "category": "课程/知识付费",
+      "core_capability": "教学方法+课程体系",
+      "personal_brand_type": "教学洞察",
+      "brand_type": "课程方案",
+      "free_resource": "能力测评表",
+      "cta_keyword": "私信「测评」",
+      "core_message": "科学方法驱动的学习效果"
+    },
+    {
+      "industry": "室内设计",
+      "category": "空间设计/软装",
+      "core_capability": "空间设计+软装搭配",
+      "personal_brand_type": "设计洞察",
+      "brand_type": "设计方案",
+      "free_resource": "户型分析模板",
+      "cta_keyword": "私信「户型」",
+      "core_message": "空间设计驱动的生活方式升级"
+    },
+    {
+      "industry": "宠物服务",
+      "category": "宠物用品/医疗",
+      "core_capability": "宠物健康+行为训练",
+      "personal_brand_type": "行为洞察",
+      "brand_type": "养育方案",
+      "free_resource": "健康自测表",
+      "cta_keyword": "私信「健康」",
+      "core_message": "科学养宠驱动的健康陪伴"
+    },
+    {
+      "industry": "美食/烘焙",
+      "category": "食品/厨艺",
+      "core_capability": "配方研发+食材甄选",
+      "personal_brand_type": "食材洞察",
+      "brand_type": "食谱方案",
+      "free_resource": "本周餐单模板",
+      "cta_keyword": "私信「食谱」",
+      "core_message": "好食材驱动的好味道"
+    },
+    {
+      "industry": "穿搭/时尚",
+      "category": "服饰/搭配",
+      "core_capability": "风格诊断+搭配方案",
+      "personal_brand_type": "风格洞察",
+      "brand_type": "搭配方案",
+      "free_resource": "风格自测卡",
+      "cta_keyword": "私信「风格」",
+      "core_message": "风格诊断驱动的精准穿搭"
+    },
+    {
+      "industry": "知识付费",
+      "category": "课程/内容",
+      "core_capability": "方法论+实战体系",
+      "personal_brand_type": "认知洞察",
+      "brand_type": "课程方案",
+      "free_resource": "诊断工具表",
+      "cta_keyword": "私信「诊断」",
+      "core_message": "系统方法驱动的问题解决"
+    },
+    {
+      "industry": "家居家电",
+      "category": "家居用品/家电",
+      "core_capability": "产品体验+场景解决方案",
+      "personal_brand_type": "体验洞察",
+      "brand_type": "场景方案",
+      "free_resource": "场景配置清单",
+      "cta_keyword": "私信「场景」",
+      "core_message": "好产品驱动的生活品质提升"
+    },
+    {
+      "industry": "医美/轻医美",
+      "category": "医美项目/皮肤管理",
+      "core_capability": "医生背书+效果可量化",
+      "personal_brand_type": "项目洞察",
+      "brand_type": "改善方案",
+      "free_resource": "皮肤检测评估",
+      "cta_keyword": "私信「评估」",
+      "core_message": "专业方案驱动的精准改善"
+    }
+  ]
+}
