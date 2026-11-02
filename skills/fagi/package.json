@@ -1,0 +1,38 @@
+{
+  "name": "fagi",
+  "version": "1.3.0",
+  "description": "FAGI 小红书生态融合智能体 — 八位专家 agent + 更新器协作的小红书经营工具箱",
+  "type": "skill",
+  "main": "SKILL.md",
+  "license": "MIT",
+  "author": "FAGI Contributors",
+  "keywords": [
+    "xiaohongshu",
+    "redbook",
+    "xhs",
+    "social-media",
+    "content-marketing",
+    "skill",
+    "agent",
+    "workbuddy",
+    "fagi",
+    "update"
+  ],
+  "engines": {
+    "workbuddy": ">=1.0.0"
+  },
+  "fagi": {
+    "role": "coordinator",
+    "agents": [
+      "fagi-xhs-competitor-analyzer",
+      "fagi-xhs-keyword-planner",
+      "fagi-xhs-dual-account-strategist",
+      "fagi-xhs-title-optimizer",
+      "fagi-xhs-note-writer",
+      "fagi-xhs-compliance-check",
+      "fagi-publish-precheck",
+      "fagi-xhs-data-review",
+      "fagi-update"
+    ]
+  }
+}
