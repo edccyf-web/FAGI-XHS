@@ -1,0 +1,13 @@
+{
+  "name": "xhs-note-writer",
+  "version": "1.0.0",
+  "description": "小红书爆款笔记生成器。融合5大爆款文案框架+7种结构+风格切换+AI味检测+关键词密度+合规检查。",
+  "main": "SKILL.md",
+  "keywords": ["小红书","笔记","爆款","种草","文案"],
+  "license": "MIT",
+  "agent": {
+    "type": "skill",
+    "skill_name": "xhs-note-writer",
+    "triggers": ["小红书笔记","写小红书","小红书种草","小红书爆款","小红书文案","帮我写小红书","红薯笔记","rednote"]
+  }
+}

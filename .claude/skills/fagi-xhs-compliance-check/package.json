@@ -1,0 +1,33 @@
+{
+  "name": "xhs-compliance-check",
+  "version": "1.0.1",
+  "description": "小红书内容合规检测专家。两阶段检测（手册知识库筛查 + 广告法增补），支持图片OCR识别文字后检测，输出风险等级总览+逐条检测结果+综合评分+自查清单。",
+  "main": "SKILL.md",
+  "scripts": {
+    "ocr": "python3 scripts/ocr.py"
+  },
+  "keywords": [
+    "小红书",
+    "违禁词",
+    "合规检测",
+    "敏感词",
+    "广告法",
+    "发布前检查",
+    "OCR"
+  ],
+  "license": "MIT",
+  "agent": {
+    "type": "skill",
+    "skill_name": "xhs-compliance-check",
+    "triggers": [
+      "违禁词检测",
+      "合规检查",
+      "小红书检测",
+      "敏感词检测",
+      "发布前检查",
+      "帮我查违禁词",
+      "审稿",
+      "广告法检测"
+    ]
+  }
+}

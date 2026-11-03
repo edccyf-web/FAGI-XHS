@@ -1,0 +1,10 @@
+{
+  "name": "fagi-xhs-competitor-analyzer",
+  "version": "1.4.0",
+  "description": "小红书对标账号五维研究，支持1–3个主页链接或截图",
+  "type": "skill",
+  "main": "SKILL.md",
+  "fagi": {
+    "role": "competitor-analyzer"
+  }
+}

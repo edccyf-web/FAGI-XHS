@@ -1,0 +1,31 @@
+{
+  "name": "xhs-keyword-planner",
+  "version": "1.1.1",
+  "description": "小红书关键词规划工具。10维关键词矩阵+搜索量验证+账号阶段部署。输出 Excel+Markdown 双格式关键词矩阵，含搜索意图、搜索量、策略评级、账号分配和部署策略。",
+  "main": "SKILL.md",
+  "scripts": {
+    "export-xlsx": "python3 scripts/export_xlsx.py"
+  },
+  "keywords": [
+    "小红书",
+    "关键词",
+    "关键词矩阵",
+    "SEO",
+    "搜索量验证",
+    "账号策略",
+    "Excel"
+  ],
+  "license": "MIT",
+  "agent": {
+    "type": "skill",
+    "skill_name": "xhs-keyword-planner",
+    "triggers": [
+      "小红书关键词",
+      "关键词规划",
+      "小红书SEO关键词",
+      "关键词矩阵",
+      "小红书词库",
+      "小红书搜索词"
+    ]
+  }
+}

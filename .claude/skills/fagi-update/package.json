@@ -1,0 +1,32 @@
+{
+  "name": "fagi-update",
+  "version": "1.2.0",
+  "description": "FAGI 更新器 — 从 GitHub 同步最新 FAGI skill，保留用户个人数据",
+  "type": "skill",
+  "main": "SKILL.md",
+  "license": "MIT",
+  "author": "FAGI Contributors",
+  "keywords": [
+    "fagi",
+    "update",
+    "sync",
+    "github",
+    "skill",
+    "workbuddy"
+  ],
+  "engines": {
+    "workbuddy": ">=1.0.0"
+  },
+  "fagi": {
+    "role": "updater",
+    "source_repo": "edccyf-web/FAGI-XHS",
+    "protected_data": [
+      "data/profile.md",
+      "data/my-rules.md",
+      "data/expressions.md",
+      "data/wordlists/",
+      "data/history/",
+      "data/cases/"
+    ]
+  }
+}
