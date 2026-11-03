@@ -1,0 +1,35 @@
+# 依赖
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 用户个人数据（各 skill 内的 data/ 目录，除模板外不提交）
+skills/*/data/history/
+skills/*/data/cases/
+skills/*/data/wordlists/*.md
+!skills/*/data/wordlists/.gitkeep
+!skills/*/data/README.md
+
+# WorkBuddy 本地加载点（符号链接）
+.workbuddy/skills/
+
+# 安全删除暂存区
+.trash/
+
+# 临时文件
+*.tmp
+*.bak
+*.log

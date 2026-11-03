@@ -1,0 +1,16 @@
+{
+  "name": "xhs-dual-account-strategist",
+  "version": "1.1.0",
+  "description": "小红书双账号内容策略专家。双账号（个人IP号+品牌号）月度内容策略与12条选题规划，支持Excel+Markdown双格式输出（6个Sheet），自动跨月呼应与迭代优化。",
+  "main": "SKILL.md",
+  "scripts": {
+    "export-xlsx": "python3 scripts/export_xlsx.py"
+  },
+  "keywords": ["小红书","双账号","内容策略","月度选题","运营","个人IP","品牌号","Excel"],
+  "license": "MIT",
+  "agent": {
+    "type": "skill",
+    "skill_name": "xhs-dual-account-strategist",
+    "triggers": ["小红书策略","双账号","月度选题","内容规划","小红书运营","小红书内容策划"]
+  }
+}

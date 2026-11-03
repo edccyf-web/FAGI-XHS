@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fagi xhs competitor analyzer"
+  short_description: "小红书对标账号五维分析（支持1–3个链接或截图）"
+  default_prompt: "请启动小红书对标账号分析，先提示我提供1–3个账号主页链接或截图，并询问我的业务方向和本次研究目标。"

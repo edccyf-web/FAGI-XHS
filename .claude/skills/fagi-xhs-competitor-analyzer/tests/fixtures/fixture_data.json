@@ -1,0 +1,145 @@
+{
+  "disclaimer": "模拟测试数据，不属于任何真实小红书账号，不能作为真实账号分析证据",
+  "scenario_A": {
+    "input_type": "profile_screenshot_only",
+    "file": "A_profile_only_mock.png",
+    "business": "陶艺体验工作室",
+    "goal": "获客成交",
+    "account": "云间手作",
+    "followers_display": "1.2万",
+    "followers": 12000,
+    "profile_likes_or_likes_saves_display": "3.8万",
+    "note_titles_from_grid": [
+      "第一次做陶艺是什么感觉",
+      "零基础能做出咖啡杯吗",
+      "周末约会去哪儿",
+      "手作杯子烧制前后",
+      "30秒看完拉坯过程",
+      "陶艺体验避坑指南"
+    ],
+    "visible_note_likes": null
+  },
+  "scenario_B": {
+    "input_type": "profile_link_plus_note_screenshots",
+    "profile_url": "https://www.xiaohongshu.com/user/profile/000000000000000000000001",
+    "is_live_account": false,
+    "files": [
+      "A_profile_only_mock.png",
+      "B_note_list_mock.png"
+    ],
+    "business": "陶艺体验工作室",
+    "goal": "获客成交",
+    "account": "云间手作",
+    "followers": 12000,
+    "notes": [
+      {
+        "title": "第一次做陶艺，居然做出了咖啡杯",
+        "likes": 3400,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "陶艺约会和普通约会有什么不同",
+        "likes": 2400,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "新手做陶艺先避开这5个坑",
+        "likes": 1800,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "周末两小时陶艺体验记录",
+        "likes": 950,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "陶泥在手里变成杯子的过程",
+        "likes": 620,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "第一次拉坯如何不翻车",
+        "likes": 580,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "手作杯子烧制前后的变化",
+        "likes": 520,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "陶艺体验课需要准备什么",
+        "likes": 430,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "适合朋友聚会的周末体验",
+        "likes": 390,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "陶艺工具到底有什么用",
+        "likes": 350,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "最喜欢的釉色搭配合集",
+        "likes": 280,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      },
+      {
+        "title": "陶艺工作室的一天",
+        "likes": 220,
+        "saves": null,
+        "comments": null,
+        "source": "B_note_list_mock.png",
+        "views": null,
+        "shares": null
+      }
+    ]
+  }
+}

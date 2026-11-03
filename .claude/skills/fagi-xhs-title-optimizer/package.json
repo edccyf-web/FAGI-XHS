@@ -1,0 +1,13 @@
+{
+  "name": "xhs-title-optimizer",
+  "version": "1.0.0",
+  "description": "小红书标题优化工具。输出5-8个配框架的优化标题，≤20字、无emoji、匹配内容框架。",
+  "main": "SKILL.md",
+  "keywords": ["小红书","标题","标题优化","起标题","爆款标题"],
+  "license": "MIT",
+  "agent": {
+    "type": "skill",
+    "skill_name": "xhs-title-optimizer",
+    "triggers": ["小红书标题","起标题","标题优化","小红书标题优化","帮忙起标题","标题公式"]
+  }
+}
